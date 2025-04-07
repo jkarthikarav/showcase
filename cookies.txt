@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.karthikjambunathan.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_virginia-pub_g
+www.karthikjambunathan.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1743993478|ozu6BiP9a3du
+www.karthikjambunathan.com	TRUE	/	FALSE	1999999999	SameSite	None
+
